@@ -8,7 +8,6 @@
  <li>webserver: xampp server</li>
  <li>Database: MySQL </li>
 </ul>
-
  <h2>The system has three modules. </h2>
     <ul><li>User</li>
     <li>Admin</li>
